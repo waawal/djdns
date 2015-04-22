@@ -1,0 +1,1 @@
+djdns is a django project for managing powerdns including domains, and records.
